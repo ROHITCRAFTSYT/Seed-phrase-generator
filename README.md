@@ -1,6 +1,6 @@
 # Blockchain Seed Phrase Generator
 
-A Python utility for generating random blockchain seed phrases from custom word lists.
+A Python utility for generating random blockchain seed phrases from custom word lists.(Word list has been included😉)
 
 ## Overview
 
